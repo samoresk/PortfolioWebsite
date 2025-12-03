@@ -1,0 +1,12 @@
+# Task List
+
+- [ ] Initialize Vite + React project <!-- id: 0 -->
+- [ ] Create Implementation Plan <!-- id: 1 -->
+- [ ] Setup Project (Install dependencies, clear boilerplate) <!-- id: 2 -->
+- [ ] Implement Global Styles & Theme (Dark mode, neon accents) <!-- id: 3 -->
+- [ ] Build Navbar Component <!-- id: 4 -->
+- [ ] Build Hero Section <!-- id: 5 -->
+- [ ] Build About Section <!-- id: 6 -->
+- [ ] Build Projects/Work Section <!-- id: 7 -->
+- [ ] Build Contact Section & Footer <!-- id: 8 -->
+- [ ] Verify and Polish (Responsive check, animations) <!-- id: 9 -->
